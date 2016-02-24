@@ -8,7 +8,7 @@ public void setup()
 } 
 public void draw() 
 {   
-	background(0);   
+	background(255);   
 	stroke(0,255,0);   
 	line(320, 580, 320, 480);  
 	drawBranches(320, 480, 100, 3*Math.PI/2);  //will add later 
